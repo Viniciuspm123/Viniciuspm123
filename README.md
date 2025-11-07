@@ -31,20 +31,6 @@ Trabalho com tecnologias modernas para entregar soluções completas, do visual 
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-    <a href="https://github.com/Viniciuspm123">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciuspm123&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-    </a>
-    
-    <a href="https://github.com/Viniciuspm123">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuspm123&layout=compact&langs_count=6&theme=vue"/>
-    </a>
-</p>
-
----
-
 ### 🌐 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-pmarques)
