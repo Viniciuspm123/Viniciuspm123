@@ -23,7 +23,7 @@ Trabalho com tecnologias modernas para entregar soluções completas, do visual 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  
+    
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -31,15 +31,21 @@ Trabalho com tecnologias modernas para entregar soluções completas, do visual 
 
 ---
 
-### 🌱 Atualmente
+### 📈 Estatísticas do GitHub
 
-- 🔭 **Atualmente trabalhando em:** [Descreva um projeto ou área - Ex: otimizar a performance de carregamento de componentes em React.]
-- 👯 **Procurando colaborar em:** Projetos Open Source que envolvam React e boas práticas de UX.
-- 💡 **Interesses:** [Ex: Novas features do JavaScript, Design System, Serverless, Testes Unitários.]
+<p align="left">
+    <a href="https://github.com/Viniciuspm123">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciuspm123&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+    </a>
+    
+    <a href="https://github.com/Viniciuspm123">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuspm123&layout=compact&langs_count=6&theme=vue"/>
+    </a>
+</p>
 
 ---
 
 ### 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-pmarques/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-pmarques)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinic123pm@gmail.com)
