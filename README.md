@@ -11,7 +11,7 @@ Trabalho com tecnologias modernas para entregar soluções completas, do visual 
 | Categoria | Tecnologias Chave |
 | :--- | :--- |
 | **Front-end** | **React** (principal), **JavaScript**, HTML5, CSS3 |
-| **Back-end** | **Java** (principal), **Python** |
+| **Back-end** | **Java** (principal), **Python**, **Node.JS** |
 | **Princípios** | Código Limpo, Performance, User Experience (UX) |
 
 <br>
