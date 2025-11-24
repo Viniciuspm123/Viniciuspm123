@@ -1,61 +1,23 @@
-<div align="center">
+🌟 Olá! Eu sou Vinicius Pereira Marques 👋
 
-# 🌟 Vinicius Pereira Marques  
-### Desenvolvedor Full Stack • Foco em Front-end  
-### Estudante do 4º semestre — Node.js e projetos práticos
+Sou Desenvolvedor Full-Stack, com foco principal em Front-end, criando interfaces modernas, fluidas e de alto desempenho.
+Atualmente estou no 4º semestre de Desenvolvimento de Sistemas (Node), revisando lógica e aprofundando práticas reais de desenvolvimento.
 
-<img src="https://i.imgur.com/OUkLi.gif" width="200" style="border-radius:50%">
+Minha missão é escrever código limpo, elegante e eficiente — sempre priorizando experiência do usuário (UX) e desempenho.
 
-</div>
+💻 Minhas Especialidades (Tech Stack)
 
----
+Trabalho com ferramentas modernas para entregar soluções completas do visual ao servidor.
 
-## 🧠 Sobre mim
+Categoria	Tecnologias
+Front-end	React, JavaScript, HTML5, CSS3
+Back-end	Java, Python, Node.js
+Princípios	Clean Code, Performance, UX
+🛠️ Linguagens & Frameworks em Destaque
+<p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> </p>
+📌 Onde estão meus projetos?
 
-Sou um desenvolvedor **Full-Stack**, com foco principal em **Front-end**, e atualmente cursando o **4º semestre**, voltado totalmente para **Node.js**, APIs e aplicações completas.
+Atualmente, meus projetos completos estão publicados no meu LinkedIn, onde mantenho documentações, prints, vídeos e explicações de cada projeto.
 
-Como no semestre atual o foco é backend, estou revisando **Lógica de Programação em JavaScript**, criando diversas listas de exercícios — tudo disponível aqui no GitHub.
-
-Meu objetivo é construir interfaces **modernas**, **rápidas** e com **excelente experiência de usuário (UX)**, sempre prezando por:
-
-- Código limpo  
-- Modularização  
-- Performance  
-- Organização  
-- Manutenibilidade
-
----
-
-## 💻 Tech Stack Principal
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-</div>
-
----
-
-## 📈 Gráficos *automáticos* estilo PAC-MAN devorando commits 🍒👾
-
-### 🎮 Pac-Man Dev Stats (ASCII Gráfico)
-
-```txt
-     ("`-''-/").___..--''"`-._
-      `6_ 6  )   `-.  (     ).`-.__.`)
-      (_Y_.)'  ._   )  `._ `. ``-..-'
-    _..`--'_..-_/  /--'_.' ,'
-   (il).-''  (li).'  ((-.'
-
-PAC-MAN COMENDO MEUS COMMITS:
-
-C O M M I T S  →  ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■  97%
-PAC-MAN →        👉 🟡 𓃡𓃡𓃡
+🌐 Conecte-se Comigo
+<p align="left"> <a href="https://www.linkedin.com/in/vinicius-pmarques"> <img height="55" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> </a> &nbsp;&nbsp; <a href="mailto:vinic123pm@gmail.com"> <img height="55" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"> </a> &nbsp;&nbsp; <a href="https://viniciuspm123.github.io/portifolio/"> <img height="55" src="https://cdn-icons-png.flaticon.com/512/841/841364.png"> </a> </p>
